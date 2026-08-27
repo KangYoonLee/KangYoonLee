@@ -3,7 +3,6 @@
 - 🎓 **Ph.D. Student** in Computer Science at Johns Hopkins University
 - 📍 **Location:** Baltimore, MD
 - 🔬 **Research Interests:** AI Datacenter Networks, Microburst Analysis, Causal Discovery, and Cross-Layer Stack Correlation
-<img width="298" height="169" alt="Picture1" src="https://github.com/user-attachments/assets/47cdb8cf-638e-466e-b1e1-fb3a6ec7b105" />
 
 ---
 
