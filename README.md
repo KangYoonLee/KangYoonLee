@@ -25,6 +25,6 @@
 ### 🌐 More Information
 If you want to check out more information about me, feel free to visit my website!
 
-<a href="https://kangyoonlee.github.io/" target="_blank">
+<a href="kangyoon-lee.com" target="_blank">
   <img src="https://img.shields.io/badge/Personal%20Website-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Website"/>
 </a>
